@@ -4,5 +4,5 @@ for num in range(0, 100):
         str1 = ""
     else:
         str1 = ", "
-    print("{}{:02d}".format(str1,num), end="")
+    print("{}{:02d}".format(str1, num), end="")
 print()
