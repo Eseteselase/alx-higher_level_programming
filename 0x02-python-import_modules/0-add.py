@@ -2,5 +2,5 @@
 a = 1
 b = 2
 from add_0 import add
-c = a + b
+c = add (a, b)
 print(f"{a} + {b} = {c}")
